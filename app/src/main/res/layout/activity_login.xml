@@ -57,7 +57,7 @@
                     android:id="@+id/textView5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Tên đăng nhập" />
+                    android:text="Tên đăng nhậP" />
 
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
